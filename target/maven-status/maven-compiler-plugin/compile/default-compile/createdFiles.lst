@@ -1,0 +1,7 @@
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/service/NotificationService.class
+edu/bu/met/cs665/monitor/GymMonitor.class
+edu/bu/met/cs665/model/User.class
+edu/bu/met/cs665/service/VideoAnalyzer.class
+edu/bu/met/cs665/model/Violation.class
+edu/bu/met/cs665/repository/UserRepository.class
